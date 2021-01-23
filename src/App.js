@@ -1,13 +1,18 @@
-
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
-    <div className="">
-      <header className="">
-       
+    <div className="grid-container">
+      <header >
+        <a href="/">React Shopping Cart</a>
       </header>
-      Hello
+      <main>
+        Product List
+      </main>
+      <footer>
+        All rights reserved
+      </footer>
     </div>
   );
 }
