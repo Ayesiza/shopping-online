@@ -1,0 +1,57 @@
+{
+  "products": [
+      {
+          "_id":"dress1",
+          "title":"Turkey Style",
+          "image":"/images/mugi1.jpg",
+          "description":"about dress 1",
+          "price": 14.0,
+          "availableSizes":["XL","L", "XXL"]
+      },
+      {
+         
+        "_id":"dress2",
+        "title":"London made",
+        "image":"/images/mugi1.jpg",
+        "description":"about dress 1",
+        "price": 10.6,
+        "availableSizes":["XL","L", "XXL"]
+
+      },
+    {
+        "_id":"dress3",
+        "title":"Fashionista",
+        "image":"/images/mugi1.jpg",
+        "description":"about dress 1",
+        "price": 16.5,
+        "availableSizes":["XL","L", "XXL"]
+    },
+    {
+      "_id":"dress3",
+      "title":"Executive Suites",
+      "image":"/images/mugi1.jpg",
+      "description":"about dress 1",
+      "price": 16.5,
+      "availableSizes":["XL","L", "XXL"]
+  },
+  {
+    "_id":"dress4",
+    "title":"Fashionista",
+    "image":"/images/mugi1.jpg",
+    "description":"about dress 1",
+    "price": 16.5,
+    "availableSizes":["XL","L", "XXL"]
+},
+{
+  "_id":"dress5",
+  "title":"Fashionista",
+  "image":"/images/mugi1.jpg",
+  "description":"about dress 1",
+  "price": 16.5,
+  "availableSizes":["XL","L", "XXL"]
+}
+
+  ]
+
+
+}
