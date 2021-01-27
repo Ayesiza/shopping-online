@@ -94,20 +94,33 @@ footer {
   max-height: 37rem;
 
 }
+.product-price {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
 
 .product-price div,
 .product-price button {
   text-align: center;
   flex: 1;
+  
+ 
+  
 }
 .product-price div {
   font-size: 2rem;
+  display: flex;
+  
+ 
+  
 }
 button {
   padding: 1rem;
   border:0.1rem #c0c0cc solid ;
   background-color: #f0f0f0;
   cursor: pointer;
+ 
 }
 
 .button:hover {
@@ -118,4 +131,61 @@ button.primary {
 }
 a {
   text-decoration: none;
+}
+
+
+/* Filter */
+.filter{
+  display:flex;
+  justify-content: space-between;
+  padding:1rem;
+  margin:1rem;
+  border-bottom: 0.1re #c0c0c0 solid;
+}
+
+.filter div {
+  flex: 1;
+}
+
+.cart {
+  padding: 1rem;
+  margin: 1rem;
+  display:flex;
+}
+.cart-header {
+ border-bottom: .1rem #c0c0c0 solid;
+}
+
+.cart-Items {
+  padding: 0;
+  width:100%;
+  list-style-type: none;
+}
+
+.cart-items img {
+  width: 5rem;
+}
+.cart-items li {
+  display: flex;
+}
+
+.cart-items li div:last child {
+ flex: 1;
+}
+.right {
+  text-align: right;
+}
+.total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.total >div {
+  font-size: 2rem;
+}
+
+.total >div,
+.total > button {
+  flex:1 ;
 }
