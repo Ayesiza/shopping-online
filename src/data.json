@@ -11,33 +11,33 @@
       {
          
         "_id":"dress2",
-        "title":"London made",
-        "image":"/images/mugi1.jpg",
+        "title":"London Made",
+        "image":"/images/mugi2.jpg",
         "description":"about dress 1",
         "price": 10.6,
-        "availableSizes":["XL","L", "XXL"]
+        "availableSizes":["M", "XXL"]
 
       },
     {
         "_id":"dress3",
         "title":"Fashionista",
-        "image":"/images/mugi1.jpg",
+        "image":"/images/mugi3.jpg",
         "description":"about dress 1",
         "price": 16.5,
-        "availableSizes":["XL","L", "XXL"]
+        "availableSizes":["S","L"]
     },
     {
-      "_id":"dress3",
+      "_id":"dress6",
       "title":"Executive Suites",
-      "image":"/images/mugi1.jpg",
+      "image":"/images/mugi5.jpg",
       "description":"about dress 1",
       "price": 16.5,
-      "availableSizes":["XL","L", "XXL"]
+      "availableSizes":["XL","L"]
   },
   {
     "_id":"dress4",
     "title":"Fashionista",
-    "image":"/images/mugi1.jpg",
+    "image":"/images/mugi7.jpg",
     "description":"about dress 1",
     "price": 16.5,
     "availableSizes":["XL","L", "XXL"]
@@ -45,7 +45,7 @@
 {
   "_id":"dress5",
   "title":"Fashionista",
-  "image":"/images/mugi1.jpg",
+  "image":"/images/mugi11.jpg",
   "description":"about dress 1",
   "price": 16.5,
   "availableSizes":["XL","L", "XXL"]
